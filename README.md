@@ -8,7 +8,7 @@ By programming your solutions to math problems, you
 Current topics:
 - Averages of Statistical Data (mean, median, mode)
 - Set theory (unique elements, intersection)
-- Graphing techniques (straight line graph)
+- Graphing techniques (straight line graph, curve line graph)
 - Programming (searching)
 - Real-life Mathematical Applications (compound interest)
 
